@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0027-remove-element) |
 ## Hash Table
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0027-remove-element) |
 ## Binary Search
 |  |
@@ -52,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0014-longest-common-prefix) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
