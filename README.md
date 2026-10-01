@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0020-valid-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -74,4 +75,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0029-divide-two-integers) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
