@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0067-add-binary) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0067-add-binary) |
 ## Trie
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0067-add-binary) |
 ## Stack
 |  |
 | ------- |
@@ -114,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
