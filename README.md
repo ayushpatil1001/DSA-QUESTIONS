@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0039-combination-sum) |
 | [0088-merge-sorted-array](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
@@ -145,4 +146,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
