@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0023-merge-k-sorted-lists) |
 ## String
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0024-swap-nodes-in-pairs) |
 ## Recursion
 |  |
@@ -147,4 +149,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0039-combination-sum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
