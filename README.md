@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0039-combination-sum) |
+| [0048-rotate-image](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0048-rotate-image) |
 | [0088-merge-sorted-array](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0070-climbing-stairs) |
@@ -181,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0070-climbing-stairs) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
