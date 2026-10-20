@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0048-rotate-image) |
+| [0055-jump-game](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0072-edit-distance) |
 ## Manacher
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0055-jump-game) |
 ## Sorting
 |  |
 | ------- |
