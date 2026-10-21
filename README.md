@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0016-3sum-closest) |
+| [0056-merge-intervals](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0088-merge-sorted-array) |
 ## Bit Manipulation
 |  |
@@ -190,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0048-rotate-image) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
