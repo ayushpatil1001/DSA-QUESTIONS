@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0070-climbing-stairs) |
