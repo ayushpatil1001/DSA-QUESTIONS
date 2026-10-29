@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0057-insert-interval) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0067-add-binary) |
 ## Backtracking
 |  |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0054-spiral-matrix) |
 ## Quicksort
 |  |
 | ------- |
