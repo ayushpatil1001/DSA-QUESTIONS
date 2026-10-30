@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0072-edit-distance) |
 ## Manacher
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0069-sqrtx) |
@@ -208,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0056-merge-intervals) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
