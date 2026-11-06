@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0125-valid-palindrome) |
 ## Binary Search
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0072-edit-distance) |
+| [0125-valid-palindrome](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0125-valid-palindrome) |
 ## Dynamic Programming
 |  |
 | ------- |
