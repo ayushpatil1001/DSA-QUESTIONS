@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0066-plus-one) |
+| [0079-word-search](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0125-valid-palindrome) |
 ## Dynamic Programming
 |  |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0039-combination-sum) |
 | [0077-combinations](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0079-word-search) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0054-spiral-matrix) |
+| [0079-word-search](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0079-word-search) |
 ## Quicksort
 |  |
 | ------- |
@@ -225,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0062-unique-paths) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
