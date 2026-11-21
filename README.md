@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0072-edit-distance) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ayushpatil1001/DSA-QUESTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Manacher
 |  |
 | ------- |
